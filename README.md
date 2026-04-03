@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./banner.png" width="700" alt="banner"/>
 </div>
 
----
+--- -->
 
 ## ⚡ Languages, Tools and Technologies
 
@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish08k&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish08k&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish08k&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> -->
+<!-- </div> -->
